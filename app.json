@@ -1,0 +1,4 @@
+{
+  "name": "heroku-react-with-jsonserver",
+  "description": "vitejs기반 react앱과 json-server기반 api서버를 heroku에 배포하는 환경이 세팅되어 있는 템플릿 리포지토리입니다."
+}
